@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D4rrenDeng
-- 👀 I’m interested in becoming a software developer  
-- 🌱 I’m currently learning data structure and algorithm AKA fundamentals
+- 👀 I’m a software developer to be in the near futur
+- 🌱 I’m currently a beginner again learning data structure and algorithm
 - 💞️ I’m looking to collaborate on self-learning software development
 - 📫 How to reach me: darrent211@gmail.com
 
